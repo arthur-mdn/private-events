@@ -1,8 +1,5 @@
-# React + Vite
+# DJ MIKA - Private Events
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Voici un simple site web vitrine pour promouvoir les services d'un DJ.
+On pourra y trouver des informations sur les services proposés, des photos et vidéos , des avis de clients, un formulaire de contact, etc.
+Et surtout : Un répoertoire de mixs à écouter en ligne.
